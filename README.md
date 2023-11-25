@@ -1,7 +1,7 @@
 **Bash einfach**  
 Angelegt Donnerstag 23 November 2023
 
-# LPD 23-2<span id="lpd-23-2" class="h_anchor"></span>
+# LPD 23-2 in Worms<span id="lpd-23-2" class="h_anchor"></span>
 
   
 
@@ -11,7 +11,7 @@ Angelegt Donnerstag 23 November 2023
   
 
 **Stefan Höhn Wormser Linux User Stammtisch Wolust**  
-![unser tux](images/wolust-tux.png)
+
 
   
 
