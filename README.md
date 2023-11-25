@@ -1,11 +1,11 @@
-~~~~**Bash einfach**  
+**Bash einfach**  
 Angelegt Donnerstag 23 November 2023
 
 # LPD 23-2<span id="lpd-23-2" class="h_anchor"></span>
 
   
 
-![Flyer LPD 23-2 in Worms](images/Flyer_cloud.wo.png)
+![Flyer LPD 23-2 in Worms](images/Flyer_cloud.wo.jpg)
 
   
   
