@@ -1,17 +1,17 @@
-**Bash einfach**  
+~~~~**Bash einfach**  
 Angelegt Donnerstag 23 November 2023
 
 # LPD 23-2<span id="lpd-23-2" class="h_anchor"></span>
 
   
 
-![](imades/Flyer_cloud.wo.png)
+![Flyer LPD 23-2 in Worms](images/Flyer_cloud.wo.png)
 
   
   
 
 **Stefan Höhn Wormser Linux User Stammtisch Wolust**  
-![](images/wolust-tux.png)
+![unser tux](images/wolust-tux.png)
 
   
 
@@ -29,7 +29,7 @@ Glederung: Philosophisches. Lustiges, Eigenes
 ## Was ist Bash? Unterschied zu Fensterprogrammen.<span id="was-ist-bash-unterschied-zu-fensterprogrammen" class="h_anchor"></span>
 
 **Bourne again Shell**  
-![](images/lnp_bash/bash.png)  
+![bash-logo](images/bash.png)  
 Mensch-Maschine Schnittstelle . Human Machine Interface“ (HMI)  
 Befehl an Maschine-\> Ausgabe (auch Computerprogramm)
 
