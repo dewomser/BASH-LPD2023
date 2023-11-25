@@ -10,7 +10,7 @@ Angelegt Donnerstag 23 November 2023
   
   
 
-**Stefan Höhn Wormser Linux User Stammtisch Wolust**  
+**Stefan Höhn macht mit beim Wormser Linux User Stammtisch Wolust**  
 
 
   
