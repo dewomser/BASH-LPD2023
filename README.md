@@ -125,7 +125,7 @@ starten kann.
 
   
 
-![](images/bas-menue.png)  
+![bash.menue](images/bas-menue.png)  
 Ergebnis:  
 <u><a href="file:///home/karl/bin/lnp_bash/bash-menue.sh" class="file"
 title="~/bin/lnp_bash/bash-menue.sh">~/bin/lnp_bash/bash-menue.sh</a></u>
@@ -142,7 +142,7 @@ title="~/bin/lnp_bash/bash-menue.sh">~/bin/lnp_bash/bash-menue.sh</a></u>
 ### Ein Bash-Script von mir<span id="ein-bash-script-von-mir" class="h_anchor"></span>
 
 Google Suche (6 Zeilen Bash)  
-![](images/google-suche.png)  
+![googlesuche](images/google-suche.png)  
 <a href="file:///home/karl/bin/googlesuche.sh" class="file"
 title="~/bin/googlesuche.sh">~/bin/googlesuche.sh</a>
 
@@ -174,7 +174,7 @@ Und natürlich gibts auch ein kommando zum erzeugen des QR-Codes
 <u>qrencode -s 15 -o wolust.png
 <a href="https://www.wolust.de" class="https"
 title="https://www.wolust.de">https://www.wolust.de</a></u>  
-![](images/wolust.png)  
+![QR](images/wolust.png)  
 <a href="https://wolust.de/" class="https"
 title="https://wolust.de/">https://wolust.de/</a> Wormser Linuxuser
 Stammtisch
