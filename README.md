@@ -5,13 +5,13 @@ Angelegt Donnerstag 23 November 2023
 
   
 
-![](file:///home/karl/bin/lnp_bash/Flyer_cloud.wo.png)
+![](imades/Flyer_cloud.wo.png)
 
   
   
 
 **Stefan Höhn Wormser Linux User Stammtisch Wolust**  
-![](file:///home/karl/Schreibtisch/wolust-tux.png)
+![](images/wolust-tux.png)
 
   
 
@@ -29,7 +29,7 @@ Glederung: Philosophisches. Lustiges, Eigenes
 ## Was ist Bash? Unterschied zu Fensterprogrammen.<span id="was-ist-bash-unterschied-zu-fensterprogrammen" class="h_anchor"></span>
 
 **Bourne again Shell**  
-![](file:///home/karl/bin/lnp_bash/bash.png)  
+![](images/lnp_bash/bash.png)  
 Mensch-Maschine Schnittstelle . Human Machine Interface“ (HMI)  
 Befehl an Maschine-\> Ausgabe (auch Computerprogramm)
 
@@ -125,7 +125,7 @@ starten kann.
 
   
 
-![](file:///home/karl/bin/lnp_bash/bas-menue.png)  
+![](images/bas-menue.png)  
 Ergebnis:  
 <u><a href="file:///home/karl/bin/lnp_bash/bash-menue.sh" class="file"
 title="~/bin/lnp_bash/bash-menue.sh">~/bin/lnp_bash/bash-menue.sh</a></u>
@@ -142,7 +142,7 @@ title="~/bin/lnp_bash/bash-menue.sh">~/bin/lnp_bash/bash-menue.sh</a></u>
 ### Ein Bash-Script von mir<span id="ein-bash-script-von-mir" class="h_anchor"></span>
 
 Google Suche (6 Zeilen Bash)  
-![](file:///home/karl/bin/lnp_bash/google-suche.png)  
+![](images/google-suche.png)  
 <a href="file:///home/karl/bin/googlesuche.sh" class="file"
 title="~/bin/googlesuche.sh">~/bin/googlesuche.sh</a>
 
@@ -174,7 +174,7 @@ Und natürlich gibts auch ein kommando zum erzeugen des QR-Codes
 <u>qrencode -s 15 -o wolust.png
 <a href="https://www.wolust.de" class="https"
 title="https://www.wolust.de">https://www.wolust.de</a></u>  
-![](file:///home/karl/bin/lnp_bash/wolust.png)  
+![](images/wolust.png)  
 <a href="https://wolust.de/" class="https"
 title="https://wolust.de/">https://wolust.de/</a> Wormser Linuxuser
 Stammtisch
