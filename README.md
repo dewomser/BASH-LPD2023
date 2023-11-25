@@ -142,8 +142,8 @@ Ergebnis:
 
 Google Suche (6 Zeilen Bash)  
 ![googlesuche](images/google-suche.png)  
-<a href="file:///home/karl/bin/googlesuche.sh" class="file"
-title="~/bin/googlesuche.sh">~/bin/googlesuche.sh</a>
+<a href="https://gist.github.com/dewomser/aa12dff5724d12fa1e24b94251e785fe" class="file"
+title="~/bin/googlesuche.sh">googlesuche.sh</a>
 
   
 
