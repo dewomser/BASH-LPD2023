@@ -127,8 +127,7 @@ starten kann.
 
 ![bash.menue](images/bas-menue.png)  
 Ergebnis:  
-<u><a href="file:///home/karl/bin/lnp_bash/bash-menue.sh" class="file"
-title="~/bin/lnp_bash/bash-menue.sh">~/bin/lnp_bash/bash-menue.sh</a></u>
+[bash-menue](bash-menue.sh)
 
   
 
