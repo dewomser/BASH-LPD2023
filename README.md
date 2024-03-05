@@ -172,7 +172,7 @@ title="https://gist.github.com/dewomser">https://gist.github.com/dewomser</a>
 Und natürlich gibts auch ein kommando zum erzeugen des QR-Codes  
 <u>qrencode -s 15 -o wolust.png
 <a href="https://www.wolust.de" class="https"
-title="https://www.wolust.de">https://www.wolust.de</a></u>  
+title="https://www.wolust.de">https://wolust.de</a></u>  
 ![QR](images/wolust.png)  
 <a href="https://wolust.de/" class="https"
 title="https://wolust.de/">https://wolust.de/</a> Wormser Linuxuser
